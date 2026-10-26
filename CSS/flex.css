@@ -1,0 +1,22 @@
+.flex-items{
+    background-color: chartreuse;
+    width: 200px;
+    height: 180px;
+    font-weight: 900px;
+    font-size:40px ;
+    margin:10px ;
+    border: 2px solid red;
+    padding: 10px;
+    color: black;
+    display: flex;
+    /* horizontal center */
+    justify-content: center;
+    /* vertical center */
+    align-items: center;
+}
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:row;
+    justify-content: center;
+}

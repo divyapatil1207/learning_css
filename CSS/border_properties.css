@@ -1,0 +1,42 @@
+.b_properties1{
+    border: 30px solid purple;
+}
+/* dashed */
+.b_properties1{
+    border: 30px dashed red;
+}
+/* dotted */
+.b_properties1{
+    border: 30px dotted black;
+}
+/* double */
+.b_properties1{
+    border: 30px double green;
+}
+/* inset */
+.b_properties1{
+    border: 30px inset blue;
+}
+/* outset */
+.b_properties1{
+    border: 30px outset yellow;
+}
+/* border color */
+.b_properties1{
+    border: 30px solid black;
+    border-color: aqua pink brown red;
+}
+/* border radius */
+.b_properties1{
+    border: 30px solid black;
+    border-radius: 50%;
+}
+.b_properties1{
+    border: 30px solid black;
+    border-radius:60px 100px 60px 100px;
+}
+/* border top color */
+.b_properties1{
+    border: 30px solid black;
+    border-top-color: aqua;
+}

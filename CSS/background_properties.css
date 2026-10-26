@@ -1,0 +1,9 @@
+.bg_img{
+    background-color: black;
+    background-image: url("../img/butterfly.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.h1_color{
+    color:red;
+}

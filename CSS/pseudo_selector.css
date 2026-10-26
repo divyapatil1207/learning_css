@@ -1,0 +1,28 @@
+h1:hover{
+    color: blue;
+    font-size: 60px;
+    text-shadow: 5px 6px 7px red;
+}
+h2:hover{
+    font-weight: 900;
+    font-family: monospace;
+    color: blueviolet;
+}
+h3:active{
+    color: brown;
+    cursor: pointer;
+}
+a:visited{
+    color: darkgreen;
+}
+p::first-letter{
+    color: red;
+    font-size: 50px;
+}
+p::first-line{
+    color:blue;
+}
+::selection{
+    color: red;
+    background-color: aqua;
+}
